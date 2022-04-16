@@ -11,6 +11,7 @@ export M2=$M2_HOME/bin
 PATH=$PATH:$M2
 # To set it permanently update your .bash_profile
 source ~/.bash_profile
+#mvn commands will work
 ```
 
 ## Install git
