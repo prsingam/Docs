@@ -22,7 +22,12 @@ yum install git
 ```sh
 yum install docker
 systemctl start docker
-systemctl enable docker
+systemctl enable 
+or
+
+service docker start
+service docker status
+chkconfig docket on
 ```
 
 ## Assign shell to jenkins user
