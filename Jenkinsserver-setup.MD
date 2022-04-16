@@ -45,4 +45,5 @@ change shell from /bin/false to /bin/bash
 ```
 ## jenkins user has to be added to sudoers file
 vi /etc/sudoers
+
 jenkins ALL=(ALL)       NOPASSWD: ALL
